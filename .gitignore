@@ -1,3 +1,9 @@
 out/resume.aux
 out/resume.log
 out/.DS_Store
+
+## BibLaTeX auxiliary files:
+*.bbl
+*.bcf
+*.blg
+
