@@ -152,6 +152,9 @@
 \definecolor{awesome-darknight}{HTML}{131A28}
 \colorlet{awesome}{awesome-red}
 
+
+\newbool{acvSectionColorHighlight}
+
 % Awesome section color
 \newcounter{colorCounter}
 \def\@sectioncolor#1#2#3{%
